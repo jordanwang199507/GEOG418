@@ -1,4 +1,4 @@
-# GEOG418
+# GEOG418 Advanced Spatial Analysis and Geo- Statistics
 Coursework from GEOG418 at University of Victoria
 
 Advanced Spatial Analysis and Geo- Statistics 
